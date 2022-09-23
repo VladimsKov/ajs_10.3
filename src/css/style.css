@@ -1,0 +1,9 @@
+body {
+  color: #999;
+}
+.test {
+  width: 300px;
+  border: 1px solid red;
+  margin: auto;
+  text-align: center;
+}
